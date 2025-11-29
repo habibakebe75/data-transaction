@@ -6,6 +6,8 @@ Auteur : Habiba Kebe
 Pipeline de données – Transactions bancaires
 Ce projet est un exemple simple de pipeline de données en Python, réalisé dans le cadre de ma préparation à une POEI Data / Cloud / IA.
 Il montre ma capacité à manipuler, nettoyer et valider des données, en utilisant mes compétences actuelles de QA.
+
+
 🎯 Objectif du projet
 Simuler un traitement de données réel à partir d’un fichier CSV contenant des transactions bancaires, avec les étapes suivantes :
 Charger les données brutes
@@ -22,6 +24,8 @@ Générer un fichier propre pour analyse
 Python
 Pandas (manipulation de données)
 Pytest (tests automatisés)
+
+
 🧪 Lien avec mon expérience QA
 Ayant 2 ans d’expérience en tant que QA, j’ai ajouté des tests automatisés pour vérifier la qualité des données :
 détection des montants négatifs
